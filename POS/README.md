@@ -1,3 +1,2 @@
-Solver is for training the model.
-
+Solver is for training the model.\
 Scoring is for inference.
