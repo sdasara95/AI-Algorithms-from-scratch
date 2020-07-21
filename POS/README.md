@@ -1,2 +1,2 @@
-Solver is for training the model.\
-Scoring is for inference.
+pos_solver is for training the model.\
+pos_scorer is for inference.
